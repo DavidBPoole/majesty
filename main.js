@@ -17,4 +17,4 @@ console.log(jenna)
 
 const gail = hailTheQueen("Gail Matos") // Argument value is "Gail Matos"
 console.log(gail)
-// Updated
+// Updated..
