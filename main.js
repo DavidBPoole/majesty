@@ -8,3 +8,13 @@ const hailTheQueen = (nameString) => {
 
 const athena = hailTheQueen("Athena Perez") // Argument value is "Athena Perez"
 console.log(athena)
+
+const charisse = hailTheQueen("Charisse Ford") // Argument value is "Charisse Ford"
+console.log(charisse)
+
+const jenna = hailTheQueen("Jenna Solis") // Argument value is "Jenna Solis"
+console.log(jenna)
+
+const gail = hailTheQueen("Gail Matos") // Argument value is "Gail Matos"
+console.log(gail)
+// Updated..
