@@ -17,4 +17,7 @@ console.log(jenna)
 
 const gail = hailTheQueen("Gail Matos") // Argument value is "Gail Matos"
 console.log(gail)
+
+const ramona = hailTheQueen("Bug Queen") // If no argument is passed it will return undefined.
+console.log(ramona)
 // Updated..
