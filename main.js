@@ -20,4 +20,8 @@ console.log(gail)
 
 const ramona = hailTheQueen("Bug Queen") // If no argument is passed it will return undefined.
 console.log(ramona)
+
+const monica = hailTheQuen("Monica Dinglehopper")
+console.log(monica)
+// Example displaying that if the function is misnamed it will throw an undefined error
 // Updated..
