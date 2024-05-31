@@ -2,6 +2,10 @@
     Define a function with a single parameter. When the function
     is invoked, an argument is required.
 */
+
+const queens = []
+// Updated..
+
 const hailTheQueen = (nameString) => {
   return `Hail Her Majesty, ${nameString}.`  // This function returns a string
 }
@@ -24,4 +28,3 @@ console.log(ramona)
 const monica = hailTheQuen("Monica Dinglehopper")
 console.log(monica)
 // Example displaying that if the function is misnamed it will throw an undefined error
-// Updated..
