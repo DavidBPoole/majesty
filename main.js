@@ -25,6 +25,20 @@ console.log(gail)
 const ramona = hailTheQueen("Bug Queen") // If no argument is passed it will return undefined.
 console.log(ramona)
 
-const monica = hailTheQuen("Monica Dinglehopper")
+const monica = hailTheQueen("Monica Dinglehopper")
 console.log(monica)
 // Example displaying that if the function is misnamed it will throw an undefined error
+
+const createQueen = (queenId, queenName) => {
+  const queenObject = {
+      id: queenId,
+      name: queenName
+  }
+
+  queens.push(queenObject)
+}
+
+createQueen(1, "Example Queen 1")
+createQueen(1, "Example Queen 2")
+
+// NEED TO SETUP A LAUNCH.JSON FILE FOR DEBUGGER TO WORK RIGHT - DO THIS NEXT
