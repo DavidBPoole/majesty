@@ -4,4 +4,4 @@ The purpose of this repo is to learn, practice and become proficient in C# progr
 
 Currently working on standard functions and object.
 
-UPDATED
+UPDATED - out of office next week - return to objects
