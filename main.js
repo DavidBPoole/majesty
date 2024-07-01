@@ -41,4 +41,4 @@ const createQueen = (queenId, queenName) => {
 createQueen(1, "Example Queen 1")
 createQueen(1, "Example Queen 2")
 
-// NEED TO SETUP A LAUNCH.JSON FILE FOR DEBUGGER TO WORK RIGHT - DO THIS NEXT
+// DEBUGGER SETUP
