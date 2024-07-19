@@ -41,4 +41,6 @@ const createQueen = (queenId, queenName) => {
 createQueen(1, "Example Queen 1")
 createQueen(1, "Example Queen 2")
 
-// DEBUGGER SETUP COMPLETE....
+// DEBUGGER SETUP COMPLETE
+
+// Queen Majesty Exercise complete.
