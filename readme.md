@@ -6,4 +6,4 @@ Currently working on standard functions and object.
 
 Working on objects and arrays.
 Completed Queen Majesty project.
-Beginning on Surf Shop.
+Beginning on Surf Shop..
